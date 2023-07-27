@@ -244,7 +244,7 @@ end
 L1=L1';L2=L2';L3=L3';L4=L4';
 end
 ```
-`Note: This paper has been submitted to Elseviewer Journal "Expert Systems and Applications" for revision.
+`Note: This paper has been submitted to Elseviewer Journal "Expert Systems with Applications" for revision.
 The source code mentioned in the paper is only for the purpose of article review and cannot be used for any other purposes without the authors' specific prior written permission.`
 
 

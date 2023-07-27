@@ -215,7 +215,7 @@ while FEs<=MaxFEs
     
 end % end while
 
-% (3) Handling situations where the output format is not met
+%% (3) Handling situations where the output format is not met
 if FEs<MaxFEs
     gbesthistory(FEs+1:MaxFEs)=gbestfitness;
 else

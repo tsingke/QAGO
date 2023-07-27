@@ -4,7 +4,7 @@
 **Title**: Quadruple parameter adaptation growth optimizer with integrated distribution, confrontation, and balance features for optimization
 
 ```
- Authors：Hao Gao(1), Qingke Zhang*(1), Xianglong Bu(2), Huaxiang Zhang(1)
+ Authors：Hao Gao(1), Qingke Zhang*, Xianglong Bu, Huaxiang Zhang
 ```
 *  School of Information Science and Engineering, Shandong Normal University, Jinan 250358, China
 

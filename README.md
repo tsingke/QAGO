@@ -40,15 +40,15 @@ The source code of the AE algorithm is publicly available at [https://github.com
 
 ## 2. QAGO Pseudocode (MATLAB)
 
-<img src="./QAGO/QAGOcode.png" width='400' height='575' >
+<img src="./QAGO/QAGOalgorithm.png" width='400' height='575' >
 
 ## 3. QAGO Search Behavior Overview
 
-![search direction](./QAGP/QAGObehavior.png)
+![search direction](./QAGO/SearchBehavior.png)
 
 ## 4. A List of one hundred compared algorithms
-![ComparedAlgorithms](./QAGO/Algorithms.png)
-![ConvergenceCurves](./QAGO/QAGOcurves.png)
+![ComparedAlgorithms](./QAGO/AlgorithmRanks.png)
+
 
 
 ## 5. The MATLAB Code of QAGO

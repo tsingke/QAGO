@@ -1,5 +1,5 @@
 
-## SupplementaryExperiments and Results
+## Supplementary Experiments and Results
 
 ### Experiment 1
 

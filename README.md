@@ -46,7 +46,7 @@ The source code of the QAGO algorithm is publicly available at [https://github.c
 
 ![search direction](./QAGO/SearchBehavior.png)
 
-## 4. A List of 50 compared algorithms
+## 4. A List of statistic rank of 50 compared algorithms
 ![ComparedAlgorithms](./QAGO/AlgorithmRanks.png)
 
 

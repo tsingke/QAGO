@@ -46,7 +46,7 @@ The source code of the AE algorithm is publicly available at [https://github.com
 
 ![search direction](./QAGO/SearchBehavior.png)
 
-## 4. A List of one hundred compared algorithms
+## 4. A List of 50 compared algorithms
 ![ComparedAlgorithms](./QAGO/AlgorithmRanks.png)
 
 

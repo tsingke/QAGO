@@ -34,7 +34,7 @@ sensor network node deployment. The results demonstrated that QAGO delivers high
 optimization results compared to seventy-one high-performance competing algorithms, including the
 ﬁve IEEE CEC competition winners.
 
-The source code of the AE algorithm is publicly available at [https://github.com/tsingke/QAGO](https://github.com/tsingke/QAGO).
+The source code of the QAGO algorithm is publicly available at [https://github.com/tsingke/QAGO](https://github.com/tsingke/QAGO).
 
  
 

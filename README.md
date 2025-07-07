@@ -15,7 +15,7 @@
 - Paper Cite： Hao Gao, Qingke Zhang, Xianglong Bu, Huaxiang Zhang,Quadruple parameter adaptation growth optimizer with integrated distribution, confrontation, and balance features for optimization,
 Expert Systems with Applications,Volume 235,2024,121218.
 
-## 1. Abstract
+## 1. Introduction
 Growth optimizer is a novel metaheuristic algorithm that has powerful numerical optimization
 capabilities. However, its parameters and search operators become crucial factors that signiﬁcantly
 impact its optimization capability for engineering problems and benchmarks. Therefore, this paper

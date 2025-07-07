@@ -8,9 +8,12 @@
 ```
 *  School of Information Science and Engineering, Shandong Normal University, Jinan 250358, China
 
-Corresponding Author: **Qingke Zhang** , Email: tsingke@sdnu.edu.cn , Tel :  +86-13953128163
+- Corresponding Author: **Qingke Zhang** , Email: tsingke@sdnu.edu.cn , Tel :  +86-13953128163
 
+- Paper Link： https://doi.org/10.1016/j.eswa.2023.121218
 
+- Paper Cite： Hao Gao, Qingke Zhang, Xianglong Bu, Huaxiang Zhang,Quadruple parameter adaptation growth optimizer with integrated distribution, confrontation, and balance features for optimization,
+Expert Systems with Applications,Volume 235,2024,121218.
 
 ## 1. Abstract
 Growth optimizer is a novel metaheuristic algorithm that has powerful numerical optimization
@@ -244,10 +247,6 @@ end
 L1=L1';L2=L2';L3=L3';L4=L4';
 end
 ```
-`Note: This paper has been submitted to Elseviewer Journal "Expert Systems with Applications" for revision.
-The source code mentioned in the paper is only for the purpose of article review and cannot be used for any other purposes without the authors' specific prior written permission.`
-
-
 
 ## 6. Acknowledgements
 
